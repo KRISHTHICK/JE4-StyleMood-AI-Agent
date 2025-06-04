@@ -1,0 +1,13 @@
+streamlit
+ollama
+Pillow
+
+# git clone https://github.com/yourusername/StyleMood-AI.git
+# cd StyleMood-AI
+
+# pip install -r requirements.txt
+
+# ollama serve
+# ollama run tinyllama
+
+# streamlit run app.py
